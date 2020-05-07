@@ -1,0 +1,22 @@
+{
+  "name": "uq-gcal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentonlam/uq-gcal.git"
+  },
+  "author": "Kenton Lam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentonlam/uq-gcal/issues"
+  },
+  "homepage": "https://github.com/kentonlam/uq-gcal#readme",
+  "devDependencies": {
+    "clasp": "^1.0.0"
+  }
+}
